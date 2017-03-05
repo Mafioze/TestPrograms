@@ -74,6 +74,8 @@ namespace TestTask1
                         word.Append((char)symbol); 
                 }
 
+                con.Close();
+
                 dictionary.Sort(delegate (Couple item1, Couple item2)
                 { return item2.count.CompareTo(item1.count); });
 
