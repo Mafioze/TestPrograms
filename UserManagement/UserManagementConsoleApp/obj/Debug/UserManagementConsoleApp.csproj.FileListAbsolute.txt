@@ -14,3 +14,10 @@ C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserM
 C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.dll
 C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.pdb
 C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserManagementConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\MySql.Data.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
