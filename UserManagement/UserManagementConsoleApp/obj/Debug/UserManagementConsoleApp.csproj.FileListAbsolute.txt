@@ -1,0 +1,16 @@
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.exe.config
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.exe
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.pdb
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.dll
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.pdb
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserManagementConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserControl.exe
+C:\Users\Ибрагим\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserControl.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserControl.exe
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserControl.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.exe
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControl.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.dll
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\bin\Debug\UserControlLibrary.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\UserManagement\UserManagementConsoleApp\obj\Debug\UserManagementConsoleApp.csprojResolveAssemblyReference.cache
